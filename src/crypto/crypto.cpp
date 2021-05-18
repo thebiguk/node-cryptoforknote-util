@@ -217,7 +217,7 @@ DISABLE_VS_WARNINGS(4200)
     struct {
       ec_point a, b;
     } ab[];
-  } rcs;
+  }rcs;
 POP_WARNINGS
 
   static inline size_t rs_comm_size(size_t pubs_count) {

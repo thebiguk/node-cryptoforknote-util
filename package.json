@@ -1,6 +1,6 @@
 {
   "name": "cryptoforknote-util",
-  "version": "3.0.0",
+  "version": "0.0.3",
   "main": "cryptoforknote-util",
   "author": {
     "name": "LucasJones",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MoneroOcean/node-cryptoforknote-util.git"
+    "url": "https://github.com/thebiguk/node-cryptoforknote-util.git"
   },
   "dependencies": {
     "bindings": "*",
@@ -16,9 +16,6 @@
   },
   "keywords": [
     "cryptonight",
-    "cryptonote",
-    "forknote",
-    "bytecoin",
-    "monero"
+    "cryptonote"
   ]
 }
